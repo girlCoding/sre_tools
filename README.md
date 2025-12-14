@@ -24,7 +24,7 @@ sre_tools is designed to give engineers quick, actionable insights into system h
 
 ## Tools Included
 
-### system_diagnostics.sh
+### system_diagnostic_folder/system_diagnostics.sh
 
 Runs a full system health sweep including:
 
@@ -35,7 +35,7 @@ Runs a full system health sweep including:
 * process tree analysis
 * dmesg and journalctl error highlights
 
-### process_inspector.sh
+### process_inspector_folder/process_inspector.sh
 
 Identifies:
 
