@@ -1,6 +1,6 @@
-Here’s a clean, no-bold, professional README you can drop directly into your `sre_tools` repo.
-If you want sections added (screenshots, diagrams, examples, badges, etc.), I can extend it.
-
+# Welcome to girlCoding sre_tools Repo. 
+# feedback is always welcomed.
+# girlCoding@icloud.com
 ---
 
 # sre_tools
